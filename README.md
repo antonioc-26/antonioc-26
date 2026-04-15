@@ -13,10 +13,11 @@ I am currently seeking **entry-level opportunities**.
 
 Entry-level opportunities in:
 
-* Software Development
+* Software Engineering / Full-Stack Development
 * Web Development
 * Backend Engineering
-* Full-Stack Development
+* IT / Systems Support & Infrastructure
+* Technical roles involving problem-solving across software and systems
 
 Preferred locations:
 
