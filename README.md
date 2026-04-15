@@ -17,8 +17,8 @@ Entry-level opportunities in:
 * Web Development
 * Backend Engineering
 * IT / Systems Support & Infrastructure
-* Technical roles involving problem-solving across software and systems
-
+* Technical roles focused on building, debugging, and improving real-world systems
+* 
 Preferred locations:
 
 * Hanover, PA
