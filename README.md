@@ -18,7 +18,7 @@ Entry-level opportunities in:
 * Backend Engineering
 * IT / Systems Support & Infrastructure
 * Technical roles focused on building, debugging, and improving real-world systems
-* 
+  
 Preferred locations:
 
 * Hanover, PA
