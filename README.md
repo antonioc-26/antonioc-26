@@ -29,18 +29,34 @@ Preferred locations:
 
 ---
 
-## Featured Projects
+## Professional Experience
+
+### Millersville Tennis Club Website (Freelance Contract)
+
+Production-ready React-based website built for a university organization.
+
+Highlights:
+
+* responsive multi-page SPA with React Router
+* reusable component architecture (Header, Footer, templates)
+* mobile-first design with adaptive navigation
+* UI/UX optimization across devices and browsers
+* deployed with Vercel + GitHub CI/CD pipeline
+  
+---
+
+## Selected Feature Projects
 
 ### Maverick Course Scheduler
 
-Constraint-based academic scheduling system built with Python and the Z3 theorem prover.
+Constraint-based academic scheduling system interface built with Python and the Z3 theorem prover.
 
 Highlights:
 
 * constraint solving
 * schedule optimization
 * CLI tools + Flask web interface
-* team-based development using Git and GitHub workflows
+* Agile team development with Git + CI workflows
 
 ---
 
@@ -50,30 +66,25 @@ Full-stack e-commerce platform built using Node.js, Express, and MongoDB.
 
 Features:
 
-* REST API backend
-* authentication system
-* product management & catalog
-* cart functionality
-* dynamic frontend components
-* order history management
+* REST API backend with scalable CRUD operations
+* JWT-based authentication system
+* product catalog and dynamic UI components
+* shopping cart + order management system
+* client-server data flow integration
 
 ---
 
-### Web Games Collection
+### CS Job Market Dashboard
 
-A collection of browser-based games implemented with HTML, CSS, and JavaScript.
+Full-stack data analytics dashboard for visualizing real-world job market trends.
 
-Games include:
+Highlights:
 
-* Rock Paper Scissors Lizard Spock
-* Memory Card Game
-* Nine Men's Morris
-
-Focus areas:
-
-* UI interaction
-* browser-based game logic
-* rule validation and dynamic board updates
+* Python data pipeline (Pandas) for cleaning and aggregating datasets
+* reactive Vue 3 + TypeScript frontend
+* interactive Chart.js visualizations
+* real-time filtering and dynamic insights
+* deployed production app on Vercel
 
 ---
 
@@ -83,10 +94,10 @@ A lightweight web application for tracking job applications.
 
 Features:
 
-* CRUD job management
-* dashboard statistics
-* status filtering
-* localStorage persistence
+* CRUD job management system
+* filtering and status tracking
+* dashboard-style analytics
+* localStorage persistence for seamless UX
 
 ---
 
@@ -94,37 +105,54 @@ Features:
 
 ### Programming Languages
 
-Python
-JavaScript
-Java
-C++
-C
-OCaml
-SQL
+Python  
+JavaScript  
+TypeScript  
+Java  
+C++  
+C  
+OCaml  
+SQL  
+
+---
 
 ### Frameworks & Tools
 
-Flask
-Node.js
-Express
-Git / GitHub
+React  
+Vue 3  
+Flask  
+Node.js  
+Express  
+Chart.js  
+Vite  
+Git / GitHub  
+Vercel  
+
+---
 
 ### Databases
 
-MongoDB
-PostgreSQL
+MongoDB  
+PostgreSQL  
+
+---
 
 ### Core Concepts
 
-Algorithms
-Data Structures
-Object-Oriented Programming
-Database Design
-REST APIs
-Operating Systems Concepts
-Distributed Systems Basics
-Software Testing
-Incremental Development
+Data Structures  
+Algorithms  
+Object-Oriented Programming  
+System Design  
+Debugging  
+Software Testing  
+REST APIs  
+Full-stack Development  
+CRUD Applications  
+API Integration  
+Client-Server Architecture  
+State Management  
+CI/CD  
+Agile Development  
 
 ---
 
